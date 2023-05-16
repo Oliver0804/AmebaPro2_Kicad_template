@@ -4,6 +4,8 @@
 
 ![amebapro2](https://github.com/Oliver0804/AmebaPro2_Kicad_template/blob/main/meta/amebapro2.jpg)
 
+![amebapro2](https://github.com/Oliver0804/AmebaPro2_Kicad_template/blob/main/meta/kicad.png)
+
 ![3D](https://github.com/Oliver0804/AmebaPro2_Kicad_template/blob/main/meta/3D.png)
 
 ![pcb](https://github.com/Oliver0804/AmebaPro2_Kicad_template/blob/main/meta/pcb.png)
