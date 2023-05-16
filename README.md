@@ -1,10 +1,15 @@
 # AmebaPro2_Kicad_template
 
-# AMB82-MINI
+## How to use
+1. Clone the project.
+2. Specify the directory location where the project was cloned.
+3. Open KiCad and open the template for a new project.
+4. Enter your project name and save the file.
+![amebapro2](https://github.com/Oliver0804/AmebaPro2_Kicad_template/blob/main/meta/kicad.png)
+
+## AMB82-MINI 介紹
 
 ![amebapro2](https://github.com/Oliver0804/AmebaPro2_Kicad_template/blob/main/meta/amebapro2.jpg)
-
-![amebapro2](https://github.com/Oliver0804/AmebaPro2_Kicad_template/blob/main/meta/kicad.png)
 
 ![3D](https://github.com/Oliver0804/AmebaPro2_Kicad_template/blob/main/meta/3D.png)
 
@@ -12,20 +17,20 @@
 
 ![sch](https://github.com/Oliver0804/AmebaPro2_Kicad_template/blob/main/meta/sch.png)
 
-## MCU
+### MCU
 
 型號：RTL8735B
 
 32位元 Arm v8M，最高500MHz
 
-## 記憶體
+### 記憶體
 
 - 768KB ROM
 - 512KB RAM
 - 16MB Flash
 - 支援最多128MB的MCM嵌入式DDR2/DDR3L記憶體
 
-## 關鍵特點
+### 關鍵特點
 
 - 集成802.11 a/b/g/n Wi-Fi，2.4GHz/5GHz
 - 藍牙低功耗（BLE）5.1
